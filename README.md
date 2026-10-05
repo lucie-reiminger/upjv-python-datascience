@@ -1,7 +1,7 @@
 README = """# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Lucie Reiminger
-**Formation :** L3 Économie / M1 Économie
+**Formation :** M1 Économie
 **Année :** 2026-2027
 
 ## Description
